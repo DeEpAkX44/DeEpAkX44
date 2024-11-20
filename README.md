@@ -15,7 +15,6 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-090909?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
 
 ### Games I Worked On
-
-[![Unsolved Case Files 3D](https://img.shields.io/badge/-Unsolved Case Files 3D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
+[![Unsolved Case Files 3D](https://img.shields.io/badge/-UnsolvedCaseFiles3D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
 
 
