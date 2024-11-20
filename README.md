@@ -15,7 +15,12 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-090909?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
 
 ### Games I Worked On
-[![Unsolved Case Files 3D](https://img.shields.io/badge/-Unsolved%20Case%20Files%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
+[![Unsolved Case Files 3D](https://img.shields.io/badge/-Unsolved%20Case%20Files%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/detailsid=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
 [![Cheat and Pass](https://img.shields.io/badge/-Cheat%20and%20Pass-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.cheatandpass&hl=en_US)
-
-
+[![Run Dash 3D](https://img.shields.io/badge/-Run%20Dash%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.freerun&hl=en_US)
+[![Jersey Run 3D](https://img.shields.io/badge/-Jersey%20Run%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.jerseydiyrun&hl=en_US)
+[![Balloon Man Rush](https://img.shields.io/badge/-Balloon%20Man%20Rush-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.balloonmanrun&hl=en_US)
+[![Head Match 3D](https://img.shields.io/badge/-Head%20Match%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.headmatch&hl=en_US)
+[![Brick Hit 3D](https://img.shields.io/badge/-Brick%20Hit%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.brickfall99&hl=en_US)
+[![Cheat Master 3D](https://img.shields.io/badge/-Cheat%20Master%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.cheatmaster&hl=en)
+[![Color Artist](https://img.shields.io/badge/-Color%20Artist-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.colorartist&hl=en_US)
