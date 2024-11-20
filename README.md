@@ -16,5 +16,6 @@
 
 ### Games I Worked On
 [![Unsolved Case Files 3D](https://img.shields.io/badge/-Unsolved%20Case%20Files%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
+[![Cheat and Pass](https://img.shields.io/badge/-Cheat%20and%20Pass-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.cheatandpass&hl=en_US)
 
 
