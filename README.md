@@ -18,6 +18,7 @@
 
 [![Recycle Sort](https://img.shields.io/badge/-Recycle%20Sort-090909?style=for-the-badge&logo=YouTubeGaming)](https://play.google.com/store/apps/details?id=com.younickgames.recyclesort)
 
+
 ### Games I Worked On
 [![Unsolved Case Files 3D](https://img.shields.io/badge/-Unsolved%20Case%20Files%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/detailsid=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
 [![Cheat and Pass](https://img.shields.io/badge/-Cheat%20and%20Pass-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.cheatandpass&hl=en_US)
@@ -34,6 +35,13 @@
 [![Scream Run 3D](https://img.shields.io/badge/-Scream%20Run%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.screamrun&hl=en_US)
 [![Video Quiz](https://img.shields.io/badge/-Video%20Quiz-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.omeglegame&hl=en_US)
 [![Pop Racing](https://img.shields.io/badge/-Pop%20Racing-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.popracing)
+
+### Games Studio Worked On
+[![Lion Studios](https://img.shields.io/badge/-Lion%20Studios-090909?style=for-the-badge&logo=GooglePlay)](https://lionstudios.cc/)
+[![Super Sonic](https://img.shields.io/badge/-Super%20Sonic-090909?style=for-the-badge&logo=GooglePlay)]([https://supersonic.com/))
+[![Voodoo](https://img.shields.io/badge/-Voodoo-090909?style=for-the-badge&logo=GooglePlay)]([https://voodoo.io/))
+[![FunCell Games](https://img.shields.io/badge/-Funcell%20Games-090909?style=for-the-badge&logo=GooglePlay)]([https://www.funcellgames.com/))
+[![Crazy Labs](https://img.shields.io/badge/-Crazy%20Labs-090909?style=for-the-badge&logo=GooglePlay)]([https://lionstudios.cc/](https://www.crazylabs.com/))
 
 ### Contact Me
 
