@@ -38,9 +38,9 @@
 
 ### Games Studio I Worked On
 [![Lion Studios](https://img.shields.io/badge/-Lion%20Studios-090909?style=for-the-badge&logo=YouTubeGaming)](https://lionstudios.cc/)
-[![Super Sonic](https://img.shields.io/badge/-Super%20Sonic-090909?style=for-the-badge&logo=YouTubeGaming)]([https://supersonic.com/)
-[![Voodoo](https://img.shields.io/badge/-Voodoo-090909?style=for-the-badge&logo=YouTubeGaming)]([https://voodoo.io/)
-[![FunCell Games](https://img.shields.io/badge/-Funcell%20Games-090909?style=for-the-badge&logo=YouTubeGaming)]([https://www.funcellgames.com/)
+[![Super Sonic](https://img.shields.io/badge/-Super%20Sonic-090909?style=for-the-badge&logo=YouTubeGaming)](https://supersonic.com/)
+[![Voodoo](https://img.shields.io/badge/-Voodoo-090909?style=for-the-badge&logo=YouTubeGaming)](https://voodoo.io/)
+[![FunCell Games](https://img.shields.io/badge/-Funcell%20Games-090909?style=for-the-badge&logo=YouTubeGaming)](https://www.funcellgames.com/)
 [![Crazy Labs](https://img.shields.io/badge/-Crazy%20Labs-090909?style=for-the-badge&logo=YouTubeGaming)](https://www.crazylabs.com/)
 
 ### Contact Me
