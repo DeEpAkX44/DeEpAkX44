@@ -34,3 +34,10 @@
 [![Scream Run 3D](https://img.shields.io/badge/-Scream%20Run%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.screamrun&hl=en_US)
 [![Video Quiz](https://img.shields.io/badge/-Video%20Quiz-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.omeglegame&hl=en_US)
 [![Pop Racing](https://img.shields.io/badge/-Pop%20Racing-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.popracing)
+
+### Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/deepak-kari)
+[![Mail](https://img.shields.io/badge/-MailTo-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:deepak.kari88@gmail.com)
+
+
