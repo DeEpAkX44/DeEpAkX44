@@ -37,11 +37,11 @@
 [![Pop Racing](https://img.shields.io/badge/-Pop%20Racing-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.popracing)
 
 ### Games Studio Worked On
-[![Lion Studios](https://img.shields.io/badge/-Lion%20Studios-090909?style=for-the-badge&logo=GooglePlay)](https://lionstudios.cc/)
-[![Super Sonic](https://img.shields.io/badge/-Super%20Sonic-090909?style=for-the-badge&logo=GooglePlay)]([https://supersonic.com/))
-[![Voodoo](https://img.shields.io/badge/-Voodoo-090909?style=for-the-badge&logo=GooglePlay)]([https://voodoo.io/))
-[![FunCell Games](https://img.shields.io/badge/-Funcell%20Games-090909?style=for-the-badge&logo=GooglePlay)]([https://www.funcellgames.com/))
-[![Crazy Labs](https://img.shields.io/badge/-Crazy%20Labs-090909?style=for-the-badge&logo=GooglePlay)]([https://lionstudios.cc/](https://www.crazylabs.com/))
+[![Lion Studios](https://img.shields.io/badge/-Lion%20Studios-090909?style=for-the-badge&logo=LionGames)](https://lionstudios.cc/)
+[![Super Sonic](https://img.shields.io/badge/-Super%20Sonic-090909?style=for-the-badge&logo=GooglePlay)]([https://supersonic.com/)
+[![Voodoo](https://img.shields.io/badge/-Voodoo-090909?style=for-the-badge&logo=GooglePlay)]([https://voodoo.io/)
+[![FunCell Games](https://img.shields.io/badge/-Funcell%20Games-090909?style=for-the-badge&logo=GooglePlay)]([https://www.funcellgames.com/)
+[![Crazy Labs](https://img.shields.io/badge/-Crazy%20Labs-090909?style=for-the-badge&logo=GooglePlay)](https://www.crazylabs.com/)
 
 ### Contact Me
 
