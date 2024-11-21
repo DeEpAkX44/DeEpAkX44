@@ -14,6 +14,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=0078D7)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-090909?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
 
+### Currently Working On
+
+[![Recycle Sort](https://img.shields.io/badge/-Recycle%20Sort-090909?style=for-the-badge&logo=YouTubeGaming)](https://play.google.com/store/apps/details?id=com.younickgames.recyclesort)
+
 ### Games I Worked On
 [![Unsolved Case Files 3D](https://img.shields.io/badge/-Unsolved%20Case%20Files%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/detailsid=com.meemeegames.unsolvedcasefiles&hl=en_US&pli=1)
 [![Cheat and Pass](https://img.shields.io/badge/-Cheat%20and%20Pass-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.cheatandpass&hl=en_US)
@@ -23,4 +27,10 @@
 [![Head Match 3D](https://img.shields.io/badge/-Head%20Match%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.headmatch&hl=en_US)
 [![Brick Hit 3D](https://img.shields.io/badge/-Brick%20Hit%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.brickfall99&hl=en_US)
 [![Cheat Master 3D](https://img.shields.io/badge/-Cheat%20Master%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.cheatmaster&hl=en)
-[![Color Artist](https://img.shields.io/badge/-Color%20Artist-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.colorartist&hl=en_US)
+[![Wednesday Run](https://img.shields.io/badge/-Wednesday%20Run-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.wednesdayrun)
+[![Hyper Guns](https://img.shields.io/badge/-Hyper%20Guns-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.tttgames.hyperguns)
+[![Snake Twist](https://img.shields.io/badge/-Snake%20Twist-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.whitesungames.snaketwist)
+[![Lift Them All](https://img.shields.io/badge/-Lift%20Them%20All-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.liftthemall&hl=en_US)
+[![Scream Run 3D](https://img.shields.io/badge/-Scream%20Run%203D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.fastfailgames.screamrun&hl=en_US)
+[![Video Quiz](https://img.shields.io/badge/-Video%20Quiz-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.omeglegame&hl=en_US)
+[![Pop Racing](https://img.shields.io/badge/-Pop%20Racing-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.popracing)
