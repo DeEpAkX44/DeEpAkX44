@@ -1,4 +1,4 @@
-![Deepak Kari](https://github.com/DeEpAkX44/DeEpAkX44/blob/main/Logo/DevilMayCryHeader.jpg)
+![Deepak Kari](https://github.com/DeEpAkX44/DeEpAkX44/blob/main/Deepak%20Kari%20Header.png)
 
 ## Hi! I'm Unity Developer
 
