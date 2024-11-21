@@ -36,7 +36,7 @@
 [![Video Quiz](https://img.shields.io/badge/-Video%20Quiz-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.omeglegame&hl=en_US)
 [![Pop Racing](https://img.shields.io/badge/-Pop%20Racing-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.meemeegames.popracing)
 
-### Games Studio Worked On
+### Games Studio I Worked On
 [![Lion Studios](https://img.shields.io/badge/-Lion%20Studios-090909?style=for-the-badge&logo=YouTubeGaming)](https://lionstudios.cc/)
 [![Super Sonic](https://img.shields.io/badge/-Super%20Sonic-090909?style=for-the-badge&logo=YouTubeGaming)]([https://supersonic.com/)
 [![Voodoo](https://img.shields.io/badge/-Voodoo-090909?style=for-the-badge&logo=YouTubeGaming)]([https://voodoo.io/)
